@@ -1,0 +1,19 @@
+{
+  "name": "nodepackaging",
+  "version": "1.0.0",
+  "description": "Perform Remote Package call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibanis/NodePackaging.git"
+  },
+  "author": "Shibani Sritha <shibani1994@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shibanis/NodePackaging/issues"
+  },
+  "homepage": "https://github.com/shibanis/NodePackaging#readme"
+}
