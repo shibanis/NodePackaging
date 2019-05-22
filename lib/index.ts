@@ -1,7 +1,6 @@
-function nodepackaging(input) {
+function nodepackaging(input:any):boolean {
     // Returns true if the input is either undefined, null, or empty, false otherwise
     return (input === undefined || input === null || input === '');
 }
 
 // Make the main function available to other packages that require us
-export default nodepackaging;
