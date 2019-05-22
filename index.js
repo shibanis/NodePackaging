@@ -4,4 +4,4 @@ function nodepackaging(input) {
 }
 
 // Make the main function available to other packages that require us
-module.exports = nodepackaging;
+export default nodepackaging;
