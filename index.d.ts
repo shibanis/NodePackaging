@@ -1,6 +1,6 @@
 
 declare namespace nodepackaging {
-    export function nodepackaging():boolean;
+    export function nodepackaging(input:any):boolean;
 }
 
 declare function nodepackaging (input:any): any;
